@@ -12,7 +12,7 @@
 2. linux 0.12 各个章节笔记
 3. 源码编译脚本及bochs启动运行脚本
 4. for test github
-
+5. for test github-desktop
 ```
 Something I hope you know before go into the coding~
 First, please watch or star this repo, I'll be more happy if you follow me.
